@@ -1,5 +1,6 @@
-### In the name of the RGB turtle, I will commit at least once every year
+### Hi, feel free to fork, star or follow
 
-<div id="cont" justify-content="center" align-items="center">
-  <img src="./rzulf.gif" width="250px" height="250px" />
+<div align="center">
+  <img src="./rzulf.gif" width="250px" height="250px" alt="Here Was Dragons!"/>
 </div>
+
